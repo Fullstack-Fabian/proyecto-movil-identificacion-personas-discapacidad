@@ -5,7 +5,7 @@ export const municipalities = [
     observed2020: 569,
     projected2026: 615,
     growth: 8.2,
-    image: "/images/municipios/san-jose.jpg",
+    image: "images/municipios/san-jose.jpg",
   },
   {
     id: "san-francisco-de-los-romo",
@@ -13,7 +13,7 @@ export const municipalities = [
     observed2020: 2234,
     projected2026: 2372,
     growth: 6.18,
-    image: "/images/municipios/san-francisco.jpg",
+    image: "images/municipios/san-francisco.jpg",
   },
   {
     id: "rincon-de-romos",
@@ -21,7 +21,7 @@ export const municipalities = [
     observed2020: 3323,
     projected2026: 3555,
     growth: 7.0,
-    image: "/images/municipios/rincon.jpg",
+    image: "images/municipios/rincon.jpg",
   },
   {
     id: "pabellon-de-arteaga",
@@ -29,7 +29,7 @@ export const municipalities = [
     observed2020: 2624,
     projected2026: 2865,
     growth: 9.2,
-    image: "/images/municipios/pabellon.jpg",
+    image: "images/municipios/pabellon.jpg",
   },
   {
     id: "jesus-maria",
@@ -37,7 +37,7 @@ export const municipalities = [
     observed2020: 5036,
     projected2026: 5295,
     growth: 5.1,
-    image: "/images/municipios/jesus-maria.jpg",
+    image: "images/municipios/jesus-maria.jpg",
   },
   {
     id: "el-llano",
@@ -45,7 +45,7 @@ export const municipalities = [
     observed2020: 1141,
     projected2026: 1257,
     growth: 10.2,
-    image: "/images/municipios/el-llano.jpg",
+    image: "images/municipios/el-llano.jpg",
   },
   {
     id: "cosio",
@@ -53,7 +53,7 @@ export const municipalities = [
     observed2020: 805,
     projected2026: 857,
     growth: 6.4,
-    image: "/images/municipios/cosio.jpg",
+    image: "images/municipios/cosio.jpg",
   },
   {
     id: "calvillo",
@@ -61,7 +61,7 @@ export const municipalities = [
     observed2020: 4088,
     projected2026: 4567,
     growth: 11.7,
-    image: "/images/municipios/calvillo.webp",
+    image: "images/municipios/calvillo.webp",
   },
   {
     id: "asientos",
@@ -69,7 +69,7 @@ export const municipalities = [
     observed2020: 2886,
     projected2026: 3056,
     growth: 5.9,
-    image: "/images/municipios/asientos.jpg",
+    image: "images/municipios/asientos.jpg",
   },
   {
     id: "tepezala",
@@ -77,6 +77,6 @@ export const municipalities = [
     observed2020: 1063,
     projected2026: 1149,
     growth: 8.1,
-    image: "/images/municipios/tepezala.jpg",
+    image: "images/municipios/tepezala.jpg",
   },
 ]

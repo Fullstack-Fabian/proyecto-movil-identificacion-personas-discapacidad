@@ -31,7 +31,7 @@ function MunicipalityDetail({ municipality }) {
       {/* Imagen */}
       <div className="relative mx-5 overflow-hidden rounded-[22px] bg-gradient-to-br from-[#172554] via-purple-700 to-purple-500">
         <img
-          src={municipality.image}
+          src={`${import.meta.env.BASE_URL}${municipality.image}`}
           alt={municipality.name}
           className="h-[260px] w-full object-cover opacity-80 transition duration-500 hover:scale-105"
         />
